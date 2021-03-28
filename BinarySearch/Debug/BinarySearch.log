@@ -1,0 +1,6 @@
+﻿  BinarySearchAlgorithm.cpp
+C:\Users\rafae\source\repos\BinarySearch\BinarySearch\BinarySearchAlgorithm.cpp(9,43): warning C4114: same type qualifier used more than once
+C:\Users\rafae\source\repos\BinarySearch\BinarySearch\BinarySearchAlgorithm.cpp(9,68): warning C4114: same type qualifier used more than once
+C:\Users\rafae\source\repos\BinarySearch\BinarySearch\BinarySearchAlgorithm.cpp(9,91): warning C4114: same type qualifier used more than once
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\rafae\source\repos\BinarySearch\Debug\BinarySearch.exe : fatal error LNK1120: 1 unresolved externals
